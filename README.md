@@ -1,4 +1,3 @@
-### My GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasiddique&layout=compact&theme=dark)
 
