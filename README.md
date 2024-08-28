@@ -1,4 +1,7 @@
-## Hi there 👋
+### My GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fasiddique&layout=compact&theme=dark)
+
 
 <!--
 **fasiddique/fasiddique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
