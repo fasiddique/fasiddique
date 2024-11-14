@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fasiddique&layout=compact&theme=dark" alt="GitHub Streak" height="150"  width="400"/>
+<!--   <img src="https://streak-stats.demolab.com/?user=fasiddique&layout=compact&theme=dark" alt="GitHub Streak" height="150"  width="400"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasiddique&layout=compact&theme=dark&hide_title=true" alt="Top Languages" height="150"  width="400"/>
 </p>
 <!-- <p align="center">
